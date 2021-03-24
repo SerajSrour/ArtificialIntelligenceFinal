@@ -9,4 +9,5 @@ The first part of the project was about ID3 algorythm and ID3 improvement, attac
 While the second part was about coding KNN algorythm and improving it's accuracy. I chosed to modify the algorythm by giving weights to each feature, and by calculate the "feature error", an appropriate was given to it.
 More detail can be found in the written project discription and analysis.
 
-PROJECT GRADE 99 !!
+**PROJECT GRADE 99 !!
+**
